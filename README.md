@@ -1,1 +1,0 @@
-# workato-aurora-cicd
